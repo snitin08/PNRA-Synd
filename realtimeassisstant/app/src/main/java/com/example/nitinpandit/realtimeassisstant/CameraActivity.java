@@ -1,4 +1,4 @@
-package com.example.nitinpandit.realtimeassisstant;
+
 import android.app.Activity;
 import android.content.Context;
 //import android.graphics.Camera;
